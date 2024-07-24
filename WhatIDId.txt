@@ -1,0 +1,1 @@
+The aim of this module is to connect a backend that is database so data is not lost on page reload uptill now as soon as we do a refresh all the data is lost since it is stored on browser memory so we will connect a DB so all the data will be retained on page loading
